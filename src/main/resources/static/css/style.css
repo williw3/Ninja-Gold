@@ -1,0 +1,13 @@
+.mine{
+	display: inline-block;
+	border: 1px solid black;
+	padding: 20px;
+	margin-right: 20px;
+}
+.center{
+	border: 1px solid black;
+	padding: 50px 150px;
+}
+.red{
+	color: red;
+}
